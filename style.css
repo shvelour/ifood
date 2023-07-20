@@ -1,0 +1,39 @@
+
+#cabeçario{
+font-size: 0;
+}
+
+.listaCabeçario{
+font-family: helvetica,sans-serif;
+display: inline-flex;
+margin-left: 15px;
+font-size: .875rem;
+
+}
+
+#container{
+    width: 1850px;
+    height: 100px;
+    background-color: antiquewhite;
+    position: relative;
+    column-gap: 24px;
+    align-items: center;
+    grid-column-gap: 24px;
+    padding: 20px 32px;
+    display: flex;
+    
+    
+
+}
+
+#ifood{
+width: 40px;
+transform: scale(1.8);
+
+
+}
+
+.cabeçario1{
+    
+}
+
